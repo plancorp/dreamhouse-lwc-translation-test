@@ -1,0 +1,1 @@
+This folder holds example retrieved with `sf project retrieve start --manifest package.xml --target-metadata-dir temp-mdapi --unzip`
